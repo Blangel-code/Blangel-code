@@ -1,9 +1,9 @@
 <h1 align="center">Hola, yo soy Ángel Mendoza</h1>
 <h3 align="center">Un apasionado programador Science Data de Venezuela</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Flet, AI agents**
+- 🌱 Actualmente estoy aprendiendo **AI agents, FastApi**
 
-- 💬 Pregúntame Sobre **Python, Git, SQLite3, Tkinter**
+- 💬 Pregúntame Sobre **Python, Git, SQLite3, Tkinter, N8N, Flet**
 
 - 📫 Principal forma de contacto **blangel.code@gmail.com**
 
